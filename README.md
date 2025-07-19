@@ -2,7 +2,7 @@
 
 # SteamDecoded: A Data-Driven Look into Game Trends and Player Behaviour
 
-Welcome to **SteamDecoded**, a comprehensive end-to-end data analytics project built using **Power BI**, **Python**, **SQL**, and **Excel**. This project analyzes over 89K+ games from the Steam platform to uncover what makes a game successful, popular, or engaging.
+Welcome to **SteamDecoded**, a comprehensive end-to-end data analytics project built using **Power BI**, **Python**, and **Excel**. This project analyzes over 89K+ games from the Steam platform to uncover what makes a game successful, popular, or engaging.
 
 ---
 
@@ -85,7 +85,7 @@ The dashboard includes **8 interactive pages**:
 * **Power BI**: Visualization, DAX measures, modeling
 * **Python (Pandas, Regex, JSON)**: Data cleaning & table generation
 * **Excel**: Exploratory analysis
-* **SQL** (via pandas & Excel): Filtering & logic building
+
 
 ---
 
@@ -97,7 +97,7 @@ The dashboard includes **8 interactive pages**:
 
 ## 💬 My Words
 
-Every project has room to grow — including this one! Feel free to raise connect with me through mail or LinkedIn.
+Every project has room to grow — including this one! Feel free to raise issues and connect with me through mail or LinkedIn.
 
 ---
 
